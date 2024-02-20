@@ -15,7 +15,3 @@ public showcase of SAM - showcase of republic of gaming's admin addon
 ![Screenshot 2024-01-23 131816](https://github.com/xdkaine/sam-web-public/assets/55013938/e9d6da73-8f98-4fd5-8385-f0f391f1d365)
 ![Screenshot 2024-01-23 131825](https://github.com/xdkaine/sam-web-public/assets/55013938/b8244fc0-7920-43f7-8043-9a8fd10da82e)
 ![Screenshot 2024-01-23 131830](https://github.com/xdkaine/sam-web-public/assets/55013938/2026784c-ab5d-4c78-857e-6e8f71141b4e)
-![Screenshot 2024-01-23 131834](https://github.com/xdkaine/sam-web-public/assets/55013938/f66937ea-c4cc-43e0-ad42-ab4f87e31365)
-![Screenshot 2024-01-23 131841](https://github.com/xdkaine/sam-web-public/assets/55013938/0de1f4be-b74a-44a9-89d3-e64ec560c550)
-![Screenshot 2024-01-23 131848](https://github.com/xdkaine/sam-web-public/assets/55013938/c59ad6ec-da99-4fb3-ba2d-8b7ba09fe6ae)
-![Screenshot 2024-01-23 131902](https://github.com/xdkaine/sam-web-public/assets/55013938/cb9dc0e0-cd37-44e4-b814-ae6ed85af088)
